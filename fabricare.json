@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-libcron",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "libcron",
+				"SPDX-License-Identifier": "MIT",
+				"sourceLink" : "https://github.com/PerMalmberg/libcron",
+				"version" : "1.3.1",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "libcron"
+	}
+}
