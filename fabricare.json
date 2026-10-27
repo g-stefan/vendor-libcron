@@ -1,6 +1,5 @@
 {
 	"solution": {
-		"namespace" : "xyo",
 		"name" : "vendor-libcron",
 		"type" : "xyo-cpp",
 		"projects": [
